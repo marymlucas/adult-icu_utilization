@@ -1,5 +1,5 @@
 # Adult ICU Utilization - Animated Choropleth 
-Repo to host Github page for animated choropleth for Adult ICU Utilization for selected states from March 1, 2020 to March 1, 2022.  Completed as part of final project for DSCI521.
+Repo to host Github page for animated choropleth of Adult ICU Utilization for selected states from March 1, 2020 to March 1, 2022.  Created using Plotly, as part of EDA for final class project DSCI521.
 
 See animation here: https://marymlucas.github.io/adult-icu_utilization/
 
